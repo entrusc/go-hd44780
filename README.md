@@ -1,9 +1,8 @@
 Liquid-crystal display equiped with HD44780 integrated circuit
 ==============================================================
 
-[![Build Status](https://travis-ci.org/d2r2/go-hd44780.svg?branch=master)](https://travis-ci.org/d2r2/go-hd44780)
-[![Go Report Card](https://goreportcard.com/badge/github.com/d2r2/go-hd44780)](https://goreportcard.com/report/github.com/d2r2/go-hd44780)
-[![GoDoc](https://godoc.org/github.com/d2r2/go-hd44780?status.svg)](https://godoc.org/github.com/d2r2/go-hd44780)
+**Forked from [d2r2/go-hd44780](https://github.com/d2r2/go-hd44780), as that repo seems to be unmaintained.**
+
 [![MIT License](http://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 <!--
 [![Coverage Status](https://coveralls.io/repos/d2r2/go-dht/badge.svg?branch=master)](https://coveralls.io/r/d2r2/go-dht?branch=master)
