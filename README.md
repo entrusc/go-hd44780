@@ -12,7 +12,7 @@ This library written in [Go programming language](https://golang.org/) to contro
 
 There is some variety in display size, so library was tested with two kinds (width x height): 16x2 and 20x4 (pictures 1 and 2 correspond to 16x2 display, picture 3 - 20x4 display):
 
-![image](https://raw.github.com/d2r2/go-hd44780/master/docs/16x2_20x4_2.jpg)
+![image](https://raw.github.com/entrusc/go-hd44780/master/docs/16x2_20x4_2.jpg)
 
 Compatibility
 -------------
@@ -55,7 +55,7 @@ func main() {
 Getting help
 ------------
 
-GoDoc [documentation](http://godoc.org/github.com/d2r2/go-hd44780)
+GoDoc [documentation](http://godoc.org/github.com/entrusc/go-hd44780)
 
 Installation
 ------------
@@ -101,12 +101,7 @@ to discover address occupied by peripheral device. To install utility you should
 Credits
 -------
 
-This is a fork from completely similar functionality (https://github.com/davecheney/i2c), but due to the some uncertain issues does not work for me. So, it was rewritten with additional code modification.
-
-Contact
--------
-
-Please use [Github issue tracker](https://github.com/d2r2/go-hd44780/issues) for filing bugs or feature requests.
+This is a fork from [d2r2/go-hd44780](https://github.com/d2r2/go-hd44780) which seems to be unmainted.
 
 License
 -------
